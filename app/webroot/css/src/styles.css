@@ -162,7 +162,6 @@ header .menu {
 }
 header .menu ul li {
 	float:left;
-	margin-left:10px;
 	position:relative;
 }
 header .menu ul li .border-bottom {

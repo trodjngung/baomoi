@@ -78,6 +78,10 @@ class PostsController extends Controller {
 		
 	}
 
+	public function view($slug) {
+		die(var_dump($slug));
+	}
+
 	// Convert title -> slug
 	private function to_slug($str) {
 		$str = trim ( mb_strtolower ( $str ) );

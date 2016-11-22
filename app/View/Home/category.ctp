@@ -1,5 +1,4 @@
 <!--start slider -->
-<h1>troadfoasdf</h1>
 <div class="cn_wrapper">
     <div id="cn_preview" class="cn_preview">
         <div class="cn_content bg-1" style="top:0px;">

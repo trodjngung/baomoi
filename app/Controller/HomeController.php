@@ -39,7 +39,8 @@ class HomeController extends Controller {
         $this->set('base_url', 'http://'.$_SERVER['SERVER_NAME'].Router::url('/'));
     }
 
-	public function trangchu() {
-
+	public function category($slug = 'trang-chu') {
+		
+		// die(var_dump($slug));
 	}
 }

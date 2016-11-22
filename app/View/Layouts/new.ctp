@@ -22,6 +22,7 @@
 
 <html id="" lang="vi">
 	<head id="">
+		<meta name="viewport"  content="initial-scale=1, width=device-width">
 	<?php
 		echo $this->element ( 'meta' );
 		echo $this->element ( 'css' );
